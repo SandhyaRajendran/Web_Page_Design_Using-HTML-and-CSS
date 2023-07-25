@@ -1,0 +1,174 @@
+.firstpage {
+    margin: 0;
+    padding: 0;
+    background-color: blueviolet;
+}
+body,html,p,h2{
+    margin: 0;
+    padding: 0;
+}
+.cuda{
+    padding: 40px;
+    font-size: 49px;
+    color: white;
+    margin-right: 838px;
+    font-family: sans-serif;
+}
+li{
+    list-style: none;
+    margin: 5px;
+}
+ul{
+    position: relative;
+    left: 800px;
+    position: relative;
+    bottom: 91px;
+    display: flex;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+p{
+    text-align: center;
+    color: white;
+    font-size: 26px;
+    margin-bottom: 47px;
+}
+.button{
+    margin-inline: 560px;
+    background-color: orange;
+    height: 41px;
+    width: 170px;
+    margin-top: 15px;
+    position: relative;
+    bottom: 23px;
+}
+.secondpage{
+    background-color: mediumseagreen;
+    height: 670px;
+    width: 100%;
+}
+.line{
+    background-color: blue;
+    height: 2px;
+    width: 94px;
+    margin: 62px;
+    margin-top: 38px;
+    position: relative;
+    left: 570px;
+    bottom: 22px;
+}
+h2{
+text-align: center;
+font-size: 29px;
+padding-top: 66px;
+}
+.lorem{
+    font-size: 15px;
+    text-align: left;
+    margin-bottom: 191px;
+}
+img{
+    height: 120px;
+    width: 130px;
+}
+.details{
+    display: flex;
+}
+.firstdata{
+    padding: 45px;
+    padding-right: 55px;
+    margin-inline: 20px;
+}
+h3{
+    color: white;
+}
+.thirdpage{
+    background-color: darkblue;
+}
+.get{
+    margin-block: 0;
+    font-size: 33px;
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+    font-family: sans-serif;
+}
+p.text{
+    text-align: center;
+    font-size: 17px;
+}
+.line2{
+    background-color: blue;
+    height: 2px;
+    width: 94px;
+    margin-top: 38px;
+    position: relative;
+    left: 625px;
+    bottom: 22px;
+
+}
+.container{
+    
+    height: 650px;
+    width: 100%;
+}
+
+.form-section{
+background: #3c5499;
+text-align: center;
+color: #fff;
+padding-top: 100px;
+padding-bottom: 100px;
+}
+.wid-50{
+margin: 0 auto;
+display: flex;
+}
+.wid-50 .field{
+width: 50%;
+padding: 0 10px;
+}
+.input-section{
+margin-top: 75px;
+width: 850px;
+margin-left: auto;
+margin-right: auto;
+}
+.wid-50 .field input, textarea {
+background: #273a71;
+color: white;
+font-size: 18px;
+border: 0;
+width: 100%;
+padding: 0;
+height: 57px;
+border-radius: 5px;
+}
+.text-area{
+padding: 0 10px;
+}
+textarea{
+margin-top: 25px;
+height: 200px;
+}
+.social1{
+    background: #273a71;
+    padding-right: 280px;
+}
+.wid6{
+    width: 500px;
+    margin: 0 auto;
+    display: flex;
+}    
+ul.sm1{
+    position: relative;
+    left: 50px;
+    bottom: 0px;
+}
+a{
+        margin: 10px;
+        font-size: 19px;
+    
+}
